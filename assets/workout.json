@@ -1,0 +1,162 @@
+[
+	{
+		"id": 2,
+		"name": "Perfect Workout to Lose Weight",
+		"reference": "www.youtube.com",
+		"favorite": 0,
+		"routines": [
+			{
+				"id": 1,
+				"name": "Push 10 x 10 Day",
+				"sets": [
+					{
+						"total_duration": null,
+						"total_rounds": 10,
+						"type": 2,
+						"break_time": 0,
+						"exercices": [
+							{
+								"name": "Barbell bench press",
+								"work_time": null,
+								"reps": 10,
+								"break_time": 40
+							}
+						]
+					},
+					{
+						"total_duration": null,
+						"total_rounds": 10,
+						"type": 1,
+						"break_time": 0,
+						"exercices": [
+							{
+								"name": "DB/KB Alt. Clean and Lunge",
+								"work_time": 40.0,
+								"reps": null,
+								"break_time": 20.0
+							},
+							{
+								"name": "Jump rope (two foot hops)",
+								"work_time": 30.0,
+								"reps": null,
+								"break_time": 30.0
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": 2,
+				"name": "Legs 10 x 10 Day",
+				"sets": [
+					{
+						"total_duration": null,
+						"total_rounds": 10,
+						"type": 2,
+						"break_time": 0,
+						"exercices": [
+							{
+								"name": "Barbell squats",
+								"work_time": null,
+								"reps": 10,
+								"break_time": 40
+							}
+						]
+					},
+					{
+						"total_duration": null,
+						"total_rounds": 10,
+						"type": 1,
+						"break_time": 0,
+						"exercices": [
+							{
+								"name": "DB push-up renegade",
+								"work_time": 40.0,
+								"reps": null,
+								"break_time": 20.0
+							},
+							{
+								"name": "HE Mountain Climbers",
+								"work_time": 30.0,
+								"reps": null,
+								"break_time": 30.0
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": 3,
+				"name": "Pull 10 x 10 Day",
+				"sets": [
+					{
+						"total_duration": null,
+						"total_rounds": 10,
+						"type": 2,
+						"break_time": 0,
+						"exercices": [
+							{
+								"name": "Barbell rows",
+								"work_time": null,
+								"reps": 10,
+								"break_time": 60.0
+							}
+						]
+					},
+					{
+						"total_duration": null,
+						"total_rounds": 10,
+						"type": 1,
+						"break_time": 0,
+						"exercices": [
+							{
+								"name": "DB/KB Alt. Clean and Press",
+								"work_time": 40.0,
+								"reps": null,
+								"break_time": 20.0
+							},
+							{
+								"name": "DB/KB Swings",
+								"work_time": 30.0,
+								"reps": null,
+								"break_time": 30.0
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": 4,
+				"name": "Core Circuit Day",
+				"sets": [
+					{
+						"total_duration": 1200,
+						"total_rounds": null,
+						"break_time": 0,
+						"type": 2,
+						"exercices": [
+							{
+								"name": "3-Way seated knee tucks",
+								"work_time": null,
+								"reps": 10,
+								"break_time": 0
+							},
+							{
+								"name": "Squat thrusts",
+								"work_time": null,
+								"reps": 10,
+								"break_time": 0
+							},
+							{
+								"name": "Box jumps",
+								"work_time": null,
+								"reps": 10,
+								"break_time": 0
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]
